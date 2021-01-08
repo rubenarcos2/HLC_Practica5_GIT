@@ -4,6 +4,10 @@ console.log("Esta línea corresponde al trabajo de la tarea 1, realizada y asign
 <<<<<<< HEAD
 console.log("Programador 1 - Tarea 2");
 console.log("Esta línea corresponde al trabajo de la tarea 2, realizada y asignada en la rama 'feature2arcosortega'");
+<<<<<<< HEAD
 =======
 console.log("Modificación añadida a la tarea 1");
 >>>>>>> feature1arcosortega
+=======
+console.log("Añado modificación por tarea 2");
+>>>>>>> feature2arcosortega
